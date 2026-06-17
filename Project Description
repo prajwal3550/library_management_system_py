@@ -1,0 +1,41 @@
+Project Title: Library Management System
+
+Project Description:
+
+The Library Management System is a Python-based application designed to manage books in a library. The system allows users to add, view, search, update, delete, issue, and return books through a menu-driven interface.
+
+Purpose:
+
+The purpose of this project is to demonstrate the use of Python programming, database management using SQLite, and software development practices commonly used in open-source projects.
+
+Main Features:
+
+* Add books
+* View books
+* Search books
+* Update book information
+* Delete books
+* Issue books
+* Return books
+
+Input:
+
+* Book title
+* Author name
+* Quantity
+* Book ID
+
+Output:
+
+* Updated book records
+* Search results
+* Success/error messages
+
+Tools and Libraries:
+
+* Python 3
+* SQLite3
+
+Usefulness:
+
+The project helps libraries maintain book records efficiently and provides practical experience with Python and database operations.
