@@ -1,0 +1,7 @@
+# Library Management System - Python dependencies
+# All packages below are part of the Python standard library;
+# no pip install is required to run this project.
+#
+# Python >= 3.8
+# tkinter  (bundled with CPython)
+# sqlite3  (bundled with CPython)
